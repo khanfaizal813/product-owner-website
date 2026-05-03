@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
 import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'products-page',
   standalone: true,
-  imports: [TranslateModule],
+  imports: [CommonModule, TranslateModule],
   template: `
     <section class="page-panel section-panel">
       <div class="section-title">

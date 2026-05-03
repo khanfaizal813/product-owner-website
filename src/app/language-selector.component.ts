@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { LanguageService } from '../language.service';
+import { LanguageService } from './language.service';
 
 @Component({
   selector: 'language-selector',
@@ -14,7 +14,7 @@ import { LanguageService } from '../language.service';
         class="language-dropdown"
       >
         <option *ngFor="let lang of languages" [value]="lang.code">
-          {{ lang.name }}
+          {{ lang.flag }} {{ lang.name }}
         </option>
       </select>
     </div>
@@ -48,12 +48,13 @@ import { LanguageService } from '../language.service';
   `]
 })
 export class LanguageSelectorComponent implements OnInit {
-  languages = this.languageService.languages;
+  languages: any[] = [];
   currentLang = 'en';
 
   constructor(private languageService: LanguageService) {}
 
   ngOnInit() {
+    this.languages = this.languageService.languages;
     this.languageService.currentLang$.subscribe(lang => {
       this.currentLang = lang;
     });

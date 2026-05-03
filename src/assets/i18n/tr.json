@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Vision",
+    "home": "Anasayfa",
+    "about": "Hakkında",
+    "products": "Ürünler",
+    "contact": "İletişim",
+    "language": "Dil"
+  },
+  "home": {
+    "heroTitle": "Ürün Vizyonunuzu Güçlendirin",
+    "heroSubtitle": "Uzman ürün sahipliği ve stratejik rehberlikle fikirleri başarılı ürünlere dönüştürün.",
+    "ctaPrimary": "Konuşmaya Başlayın",
+    "ctaSecondary": "Daha Fazla Bilgi",
+    "metrics": {
+      "projects": "Teslim Edilen Projeler",
+      "clients": "Mutlu Müşteriler",
+      "experience": "Yıl Deneyim",
+      "success": "Başarı Oranı"
+    },
+    "aboutTitle": "Neden Biz'i Seçin",
+    "aboutDesc": "Vizyon ile uygulama arasındaki boşluğu kapatıyor, ürününüzün beklentileri karşılamasını ve aşmasını sağlıyoruz.",
+    "productsTitle": "Hizmetlerimiz",
+    "products": [
+      {
+        "title": "Ürün Stratejisi",
+        "desc": "İş değeri sağlayan net yol haritaları ve özellikleri tanımlayın."
+      },
+      {
+        "title": "Pazar Araştırması",
+        "desc": "Kararlar almak için hedef kitlenizi ve rakiplerinizi anlayın."
+      },
+      {
+        "title": "Başlatma Desteği",
+        "desc": "MVP'den tam ürün lansmanına kadar end-to-end destek."
+      }
+    ]
+  },
+  "about": {
+    "title": "PO Vision Hakkında",
+    "subtitle": "Ürün fikirlerini gerçeğe dönüştürmeye adanmış",
+    "content": "Ürün yönetiminde yılların deneyimiyle, startuplar ve işletmelerin kullanıcıların sevdiği ürünler oluşturmasına yardımcı oluyoruz. Yaklaşımımız stratejik düşünce ile pratik uygulama birleştirir."
+  },
+  "products": {
+    "title": "Ürün Hizmetlerimiz",
+    "services": [
+      {
+        "title": "Ürün Keşfi",
+        "desc": "Kullanıcı ihtiyaçlarını keşfedin ve ürün fikirlerini geliştirmeden önce doğrulayın."
+      },
+      {
+        "title": "Yol Haritası Planlama",
+        "desc": "İş hedefleriyle uyumlu uygulanabilir ürün yol haritaları oluşturun."
+      },
+      {
+        "title": "Özellik Önceliklendirmesi",
+        "desc": "Özellikleri etkili bir şekilde önceliklendirmek için veri odaklı yöntemler kullanın."
+      },
+      {
+        "title": "Pazara Giriş Stratejisi",
+        "desc": "Başarılı ürün lansmanları için kapsamlı stratejiler geliştirin."
+      }
+    ]
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bağlantı kuralım ve ürün vizyonunuzun sonraki adımını tanımlayalım.",
+    "info": "Uzaktan çalışan, dünya çapında mevcut. Ürün stratejisine, başlatma desteğine veya yol haritası uyumuna ihtiyacınız olsun, ekibimiz işbirliğine hazır.",
+    "details": {
+      "email": "E-posta",
+      "phone": "Telefon",
+      "location": "Konum"
+    },
+    "form": {
+      "eyebrow": "Hızlı bir not gönderin",
+      "title": "Ürün hedefleriniz hakkında bize anlatın",
+      "subtitle": "Hedeflerinizi paylaşın ve ürün yolculuğunuzun sonraki aşamasını şekillendirmemize yardımcı oluyoruz.",
+      "name": "Ad",
+      "email": "E-posta",
+      "company": "Şirket",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder"
+    }
+  },
+  "footer": {
+    "description": "Stratejik rehberlik ve uzman uygulamayla dünya çapında ürün vizyonlarını güçlendirme.",
+    "links": ["Gizlilik", "Şartlar", "Destek"]
+  }
+}

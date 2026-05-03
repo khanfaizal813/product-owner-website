@@ -7,6 +7,7 @@ import { HttpClient } from '@angular/common/http';
 import { importProvidersFrom } from '@angular/core';
 
 import { routes } from './app.routes';
+import { LanguageService } from './language.service';
 
 // Factory function for TranslateHttpLoader
 export function HttpLoaderFactory(http: HttpClient) {
@@ -19,6 +20,7 @@ export const appConfig: ApplicationConfig = {
     provideZonelessChangeDetection(),
     provideRouter(routes),
     provideHttpClient(),
+    LanguageService,
     importProvidersFrom(
       TranslateModule.forRoot({
         loader: {

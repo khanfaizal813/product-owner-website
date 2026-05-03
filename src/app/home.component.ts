@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'home-page',
   standalone: true,
-  imports: [RouterLink, TranslateModule],
+  imports: [RouterLink, CommonModule, TranslateModule],
   template: `
     <section class="page-panel hero-panel">
       <div class="hero-copy">

@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Vision",
+    "home": "Home",
+    "about": "Chi Siamo",
+    "products": "Prodotti",
+    "contact": "Contatto",
+    "language": "Lingua"
+  },
+  "home": {
+    "heroTitle": "Potenzia la Tua Visione Prodotto",
+    "heroSubtitle": "Trasforma le idee in prodotti di successo con proprietà di prodotto esperta e guida strategica.",
+    "ctaPrimary": "Inizia una Conversazione",
+    "ctaSecondary": "Scopri di Più",
+    "metrics": {
+      "projects": "Progetti Consegnati",
+      "clients": "Clienti Soddisfatti",
+      "experience": "Anni di Esperienza",
+      "success": "Tasso di Successo"
+    },
+    "aboutTitle": "Perché Sceglierci",
+    "aboutDesc": "Colmiamo il divario tra visione ed esecuzione, garantendo che il tuo prodotto non solo soddisfi le aspettative, ma le superi.",
+    "productsTitle": "I Nostri Servizi",
+    "products": [
+      {
+        "title": "Strategia Prodotto",
+        "desc": "Definisci roadmap chiare e dai priorità alle funzionalità che generano valore aziendale."
+      },
+      {
+        "title": "Ricerca di Mercato",
+        "desc": "Comprendi il tuo pubblico e i concorrenti per prendere decisioni informate."
+      },
+      {
+        "title": "Supporto Lancio",
+        "desc": "Supporto completo da MVP a lancio completo del prodotto."
+      }
+    ]
+  },
+  "about": {
+    "title": "Chi Siamo PO Vision",
+    "subtitle": "Dedicati a trasformare le idee di prodotto in realtà",
+    "content": "Con anni di esperienza nella gestione dei prodotti, aiutiamo startup e imprese a costruire prodotti che gli utenti amano. Il nostro approccio combina pensiero strategico con esecuzione pratica."
+  },
+  "products": {
+    "title": "I Nostri Servizi Prodotto",
+    "services": [
+      {
+        "title": "Scoperta Prodotto",
+        "desc": "Scopri i bisogni degli utenti e valida le idee di prodotto prima dello sviluppo."
+      },
+      {
+        "title": "Pianificazione Roadmap",
+        "desc": "Crea roadmap di prodotto attuabili allineate agli obiettivi aziendali."
+      },
+      {
+        "title": "Prioritizzazione Funzionalità",
+        "desc": "Usa metodi basati sui dati per dare priorità alle funzionalità in modo efficace."
+      },
+      {
+        "title": "Strategia Go-to-Market",
+        "desc": "Sviluppa strategie complete per lanci di prodotto di successo."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Connettiamoci e definiamo il prossimo passo per la tua visione prodotto.",
+    "info": "Prima remoto, disponibile in tutto il mondo. Che tu abbia bisogno di strategia prodotto, supporto lancio o allineamento roadmap, il nostro team è pronto a collaborare.",
+    "details": {
+      "email": "Email",
+      "phone": "Telefono",
+      "location": "Posizione"
+    },
+    "form": {
+      "eyebrow": "Invia una nota veloce",
+      "title": "Parlaci dei tuoi obiettivi prodotto",
+      "subtitle": "Condividi i tuoi obiettivi e ti aiuteremo a dare forma alla prossima fase del tuo viaggio prodotto.",
+      "name": "Nome",
+      "email": "Email",
+      "company": "Azienda",
+      "message": "Messaggio",
+      "submit": "Invia Messaggio"
+    }
+  },
+  "footer": {
+    "description": "Potenziare le visioni di prodotto in tutto il mondo con guida strategica ed esecuzione esperta.",
+    "links": ["Privacy", "Termini", "Supporto"]
+  }
+}

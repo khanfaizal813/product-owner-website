@@ -1,13 +1,14 @@
 <div class="site-shell">
   <header class="topbar">
-    <a class="brand" routerLink="/">PO Vision</a>
+    <a class="brand" routerLink="/">{{ 'header.brand' | translate }}</a>
     <nav class="topbar-nav">
-      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
-      <a routerLink="/about" routerLinkActive="active">About</a>
-      <a routerLink="/products" routerLinkActive="active">Products</a>
-      <a routerLink="/contact" routerLinkActive="active">Contact</a>
+      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">{{ 'header.home' | translate }}</a>
+      <a routerLink="/about" routerLinkActive="active">{{ 'header.about' | translate }}</a>
+      <a routerLink="/products" routerLinkActive="active">{{ 'header.products' | translate }}</a>
+      <a routerLink="/contact" routerLinkActive="active">{{ 'header.contact' | translate }}</a>
     </nav>
-    <a class="button button-primary" routerLink="/contact">Request a Call</a>
+    <language-selector></language-selector>
+    <a class="button button-primary" routerLink="/contact">{{ 'home.ctaPrimary' | translate }}</a>
   </header>
 
   <main class="content-shell">

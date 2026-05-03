@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Visión",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "products": "Productos",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "home": {
+    "heroTitle": "Potencia Tu Visión de Producto",
+    "heroSubtitle": "Transforma ideas en productos exitosos con propiedad de producto experta y orientación estratégica.",
+    "ctaPrimary": "Iniciar una Conversación",
+    "ctaSecondary": "Aprender Más",
+    "metrics": {
+      "projects": "Proyectos Entregados",
+      "clients": "Clientes Felices",
+      "experience": "Años de Experiencia",
+      "success": "Tasa de Éxito"
+    },
+    "aboutTitle": "Por Qué Elegirnos",
+    "aboutDesc": "Cerramos la brecha entre visión y ejecución, asegurando que tu producto no solo cumpla con las expectativas, sino que las supere.",
+    "productsTitle": "Nuestros Servicios",
+    "products": [
+      {
+        "title": "Estrategia de Producto",
+        "desc": "Define hojas de ruta claras y prioriza características que impulsen el valor comercial."
+      },
+      {
+        "title": "Investigación de Mercado",
+        "desc": "Entiende a tu audiencia y competidores para tomar decisiones informadas."
+      },
+      {
+        "title": "Soporte de Lanzamiento",
+        "desc": "Soporte integral desde MVP hasta el lanzamiento completo del producto."
+      }
+    ]
+  },
+  "about": {
+    "title": "Acerca de PO Visión",
+    "subtitle": "Dedicado a convertir ideas de productos en realidad",
+    "content": "Con años de experiencia en gestión de productos, ayudamos a startups y empresas a construir productos que los usuarios aman. Nuestro enfoque combina el pensamiento estratégico con la ejecución práctica."
+  },
+  "products": {
+    "title": "Nuestros Servicios de Productos",
+    "services": [
+      {
+        "title": "Descubrimiento de Producto",
+        "desc": "Descubre necesidades de usuarios y valida ideas de productos antes del desarrollo."
+      },
+      {
+        "title": "Planificación de Hoja de Ruta",
+        "desc": "Crea hojas de ruta de productos accionables alineadas con objetivos comerciales."
+      },
+      {
+        "title": "Priorización de Características",
+        "desc": "Usa métodos basados en datos para priorizar características de manera efectiva."
+      },
+      {
+        "title": "Estrategia Go-to-Market",
+        "desc": "Desarrolla estrategias integrales para lanzamientos de productos exitosos."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Conectémonos y definamos el siguiente paso para tu visión de producto.",
+    "info": "Primero remoto, disponible en todo el mundo. Ya sea que necesites estrategia de producto, soporte de lanzamiento o alineación de hoja de ruta, nuestro equipo está listo para colaborar.",
+    "details": {
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "location": "Ubicación"
+    },
+    "form": {
+      "eyebrow": "Envía una nota rápida",
+      "title": "Cuéntanos sobre tus objetivos de producto",
+      "subtitle": "Comparte tus objetivos y te ayudaremos a dar forma a la siguiente fase de tu viaje de producto.",
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "description": "Potenciando visiones de productos en todo el mundo con orientación estratégica y ejecución experta.",
+    "links": ["Privacidad", "Términos", "Soporte"]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Vision",
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "home": {
+    "heroTitle": "Renforcez Votre Vision Produit",
+    "heroSubtitle": "Transformez les idées en produits réussis avec une propriété de produit experte et des conseils stratégiques.",
+    "ctaPrimary": "Commencer une Conversation",
+    "ctaSecondary": "En Savoir Plus",
+    "metrics": {
+      "projects": "Projets Livrés",
+      "clients": "Clients Satisfaits",
+      "experience": "Années d'Expérience",
+      "success": "Taux de Réussite"
+    },
+    "aboutTitle": "Pourquoi Nous Choisir",
+    "aboutDesc": "Nous comblons le fossé entre la vision et l'exécution, garantissant que votre produit non seulement répond aux attentes, mais les dépasse.",
+    "productsTitle": "Nos Services",
+    "products": [
+      {
+        "title": "Stratégie Produit",
+        "desc": "Définissez des feuilles de route claires et priorisez les fonctionnalités qui génèrent de la valeur commerciale."
+      },
+      {
+        "title": "Étude de Marché",
+        "desc": "Comprenez votre public et vos concurrents pour prendre des décisions éclairées."
+      },
+      {
+        "title": "Support de Lancement",
+        "desc": "Support de bout en bout du MVP au lancement complet du produit."
+      }
+    ]
+  },
+  "about": {
+    "title": "À Propos de PO Vision",
+    "subtitle": "Dédié à transformer les idées de produits en réalité",
+    "content": "Avec des années d'expérience en gestion de produits, nous aidons les startups et les entreprises à créer des produits que les utilisateurs adorent. Notre approche combine la réflexion stratégique avec l'exécution pratique."
+  },
+  "products": {
+    "title": "Nos Services Produits",
+    "services": [
+      {
+        "title": "Découverte de Produit",
+        "desc": "Découvrez les besoins des utilisateurs et validez les idées de produits avant le développement."
+      },
+      {
+        "title": "Planification de Feuille de Route",
+        "desc": "Créez des feuilles de route de produits actionnables alignées sur les objectifs commerciaux."
+      },
+      {
+        "title": "Priorisation des Fonctionnalités",
+        "desc": "Utilisez des méthodes basées sur les données pour prioriser efficacement les fonctionnalités."
+      },
+      {
+        "title": "Stratégie Go-to-Market",
+        "desc": "Développez des stratégies complètes pour des lancements de produits réussis."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Connectons-nous et définissons la prochaine étape pour votre vision produit.",
+    "info": "D'abord à distance, disponible dans le monde entier. Que vous ayez besoin de stratégie produit, de support de lancement ou d'alignement de feuille de route, notre équipe est prête à collaborer.",
+    "details": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Emplacement"
+    },
+    "form": {
+      "eyebrow": "Envoyez une note rapide",
+      "title": "Parlez-nous de vos objectifs produit",
+      "subtitle": "Partagez vos objectifs et nous vous aiderons à façonner la prochaine phase de votre parcours produit.",
+      "name": "Nom",
+      "email": "Email",
+      "company": "Entreprise",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "description": "Renforcer les visions de produits dans le monde avec des conseils stratégiques et une exécution experte.",
+    "links": ["Confidentialité", "Conditions", "Support"]
+  }
+}

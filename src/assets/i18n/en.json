@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Vision",
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "home": {
+    "heroTitle": "Empower Your Product Vision",
+    "heroSubtitle": "Transform ideas into successful products with expert product ownership and strategic guidance.",
+    "ctaPrimary": "Start a Conversation",
+    "ctaSecondary": "Learn More",
+    "metrics": {
+      "projects": "Projects Delivered",
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "success": "Success Rate"
+    },
+    "aboutTitle": "Why Choose Us",
+    "aboutDesc": "We bridge the gap between vision and execution, ensuring your product not only meets but exceeds expectations.",
+    "productsTitle": "Our Services",
+    "products": [
+      {
+        "title": "Product Strategy",
+        "desc": "Define clear roadmaps and prioritize features that drive business value."
+      },
+      {
+        "title": "Market Research",
+        "desc": "Understand your audience and competitors to make informed decisions."
+      },
+      {
+        "title": "Launch Support",
+        "desc": "End-to-end support from MVP to full product launch."
+      }
+    ]
+  },
+  "about": {
+    "title": "About PO Vision",
+    "subtitle": "Dedicated to turning product ideas into reality",
+    "content": "With years of experience in product management, we help startups and enterprises build products that users love. Our approach combines strategic thinking with practical execution."
+  },
+  "products": {
+    "title": "Our Product Services",
+    "services": [
+      {
+        "title": "Product Discovery",
+        "desc": "Uncover user needs and validate product ideas before development."
+      },
+      {
+        "title": "Roadmap Planning",
+        "desc": "Create actionable product roadmaps aligned with business goals."
+      },
+      {
+        "title": "Feature Prioritization",
+        "desc": "Use data-driven methods to prioritize features effectively."
+      },
+      {
+        "title": "Go-to-Market Strategy",
+        "desc": "Develop comprehensive strategies for successful product launches."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's connect and define the next step for your product vision.",
+    "info": "Remote-first, available worldwide. Whether you need product strategy, launch support, or roadmap alignment, our team is ready to collaborate.",
+    "details": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "form": {
+      "eyebrow": "Send a quick note",
+      "title": "Tell us about your product goals",
+      "subtitle": "Share your goals and we will help you shape the next phase of your product journey.",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Empowering product visions worldwide with strategic guidance and expert execution.",
+    "links": ["Privacy", "Terms", "Support"]
+  }
+}

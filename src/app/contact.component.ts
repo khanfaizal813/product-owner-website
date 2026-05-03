@@ -1,33 +1,35 @@
 import { Component } from '@angular/core';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'contact-page',
   standalone: true,
+  imports: [TranslateModule],
   template: `
     <section class="page-panel section-panel contact-panel">
       <div class="contact-details">
         <div class="section-title">
           <div>
-            <h2>Contact Us</h2>
-            <p class="section-copy">Let's connect and define the next step for your product vision.</p>
+            <h2>{{ 'contact.title' | translate }}</h2>
+            <p class="section-copy">{{ 'contact.subtitle' | translate }}</p>
           </div>
         </div>
 
         <div class="info-card">
-          <p>Remote-first, available worldwide. Whether you need product strategy, launch support, or roadmap alignment, our team is ready to collaborate.</p>
+          <p>{{ 'contact.info' | translate }}</p>
         </div>
 
         <div class="contact-card">
           <div>
-            <h3>Email</h3>
+            <h3>{{ 'contact.details.email' | translate }}</h3>
             <p>hello@povision.example</p>
           </div>
           <div>
-            <h3>Phone</h3>
+            <h3>{{ 'contact.details.phone' | translate }}</h3>
             <p>+1 (555) 012-3456</p>
           </div>
           <div>
-            <h3>Location</h3>
+            <h3>{{ 'contact.details.location' | translate }}</h3>
             <p>Remote-first, available worldwide</p>
           </div>
         </div>
@@ -35,30 +37,30 @@ import { Component } from '@angular/core';
 
       <div class="contact-form">
         <div class="form-intro">
-          <span class="eyebrow">Send a quick note</span>
-          <h3>Tell us about your product goals</h3>
-          <p>Share your goals and we will help you shape the next phase of your product journey.</p>
+          <span class="eyebrow">{{ 'contact.form.eyebrow' | translate }}</span>
+          <h3>{{ 'contact.form.title' | translate }}</h3>
+          <p>{{ 'contact.form.subtitle' | translate }}</p>
         </div>
 
         <form class="contact-form-grid">
           <div class="form-field">
-            <label for="name">Name</label>
-            <input id="name" type="text" placeholder="Your name" />
+            <label for="name">{{ 'contact.form.name' | translate }}</label>
+            <input id="name" type="text" placeholder="{{ 'contact.form.name' | translate }}" />
           </div>
           <div class="form-field">
-            <label for="email">Email</label>
+            <label for="email">{{ 'contact.form.email' | translate }}</label>
             <input id="email" type="email" placeholder="you@example.com" />
           </div>
           <div class="form-field full-width">
-            <label for="company">Company</label>
-            <input id="company" type="text" placeholder="Your company" />
+            <label for="company">{{ 'contact.form.company' | translate }}</label>
+            <input id="company" type="text" placeholder="{{ 'contact.form.company' | translate }}" />
           </div>
           <div class="form-field full-width">
-            <label for="message">Message</label>
-            <textarea id="message" rows="6" placeholder="Tell us about your project"></textarea>
+            <label for="message">{{ 'contact.form.message' | translate }}</label>
+            <textarea id="message" rows="6" placeholder="{{ 'contact.form.message' | translate }}"></textarea>
           </div>
           <div class="submit-row">
-            <button type="submit" class="button button-primary">Send Message</button>
+            <button type="submit" class="button button-primary">{{ 'contact.form.submit' | translate }}</button>
           </div>
         </form>
       </div>

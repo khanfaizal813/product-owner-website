@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Vision",
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "language": "Sprache"
+  },
+  "home": {
+    "heroTitle": "Stärken Sie Ihre Produktvision",
+    "heroSubtitle": "Verwandeln Sie Ideen in erfolgreiche Produkte mit fachkundiger Produktverantwortung und strategischer Beratung.",
+    "ctaPrimary": "Gespräch beginnen",
+    "ctaSecondary": "Mehr erfahren",
+    "metrics": {
+      "projects": "Gelieferte Projekte",
+      "clients": "Zufriedene Kunden",
+      "experience": "Jahre Erfahrung",
+      "success": "Erfolgsrate"
+    },
+    "aboutTitle": "Warum uns wählen",
+    "aboutDesc": "Wir überbrücken die Lücke zwischen Vision und Ausführung und stellen sicher, dass Ihr Produkt nicht nur Erwartungen erfüllt, sondern übertrifft.",
+    "productsTitle": "Unsere Dienstleistungen",
+    "products": [
+      {
+        "title": "Produktstrategie",
+        "desc": "Definieren Sie klare Roadmaps und priorisieren Sie Funktionen, die Geschäftswert schaffen."
+      },
+      {
+        "title": "Marktforschung",
+        "desc": "Verstehen Sie Ihr Publikum und Ihre Wettbewerber, um fundierte Entscheidungen zu treffen."
+      },
+      {
+        "title": "Launch-Unterstützung",
+        "desc": "Umfassende Unterstützung von MVP bis zum vollständigen Produktlaunch."
+      }
+    ]
+  },
+  "about": {
+    "title": "Über PO Vision",
+    "subtitle": "Engagiert, Produktideen in Realität zu verwandeln",
+    "content": "Mit Jahren Erfahrung im Produktmanagement helfen wir Startups und Unternehmen, Produkte zu bauen, die Benutzer lieben. Unser Ansatz kombiniert strategisches Denken mit praktischer Ausführung."
+  },
+  "products": {
+    "title": "Unsere Produktdienstleistungen",
+    "services": [
+      {
+        "title": "Produktentdeckung",
+        "desc": "Decken Sie Benutzerbedürfnisse auf und validieren Sie Produktideen vor der Entwicklung."
+      },
+      {
+        "title": "Roadmap-Planung",
+        "desc": "Erstellen Sie umsetzbare Produkt-Roadmaps, die mit Geschäftsziele übereinstimmen."
+      },
+      {
+        "title": "Funktionspriorisierung",
+        "desc": "Verwenden Sie datengetriebene Methoden, um Funktionen effektiv zu priorisieren."
+      },
+      {
+        "title": "Go-to-Market-Strategie",
+        "desc": "Entwickeln Sie umfassende Strategien für erfolgreiche Produktlaunches."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Lassen Sie uns verbinden und den nächsten Schritt für Ihre Produktvision definieren.",
+    "info": "Remote-first, weltweit verfügbar. Ob Sie Produktstrategie, Launch-Unterstützung oder Roadmap-Ausrichtung benötigen, unser Team ist bereit zur Zusammenarbeit.",
+    "details": {
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort"
+    },
+    "form": {
+      "eyebrow": "Senden Sie eine schnelle Notiz",
+      "title": "Erzählen Sie uns von Ihren Produktzielen",
+      "subtitle": "Teilen Sie Ihre Ziele und wir helfen Ihnen, die nächste Phase Ihrer Produktreise zu gestalten.",
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    }
+  },
+  "footer": {
+    "description": "Produktvisionen weltweit mit strategischer Beratung und fachkundiger Ausführung stärken.",
+    "links": ["Datenschutz", "Bedingungen", "Support"]
+  }
+}

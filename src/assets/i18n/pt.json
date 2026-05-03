@@ -1,0 +1,89 @@
+{
+  "header": {
+    "brand": "PO Visão",
+    "home": "Início",
+    "about": "Sobre Nós",
+    "products": "Produtos",
+    "contact": "Contato",
+    "language": "Idioma"
+  },
+  "home": {
+    "heroTitle": "Potencialize Sua Visão de Produto",
+    "heroSubtitle": "Transforme ideias em produtos de sucesso com propriedade de produto especializada e orientação estratégica.",
+    "ctaPrimary": "Iniciar uma Conversa",
+    "ctaSecondary": "Saiba Mais",
+    "metrics": {
+      "projects": "Projetos Entregues",
+      "clients": "Clientes Satisfeitos",
+      "experience": "Anos de Experiência",
+      "success": "Taxa de Sucesso"
+    },
+    "aboutTitle": "Por Que Nos Escolher",
+    "aboutDesc": "Preenchemos a lacuna entre visão e execução, garantindo que seu produto não apenas atenda às expectativas, mas as supere.",
+    "productsTitle": "Nossos Serviços",
+    "products": [
+      {
+        "title": "Estratégia de Produto",
+        "desc": "Defina roadmaps claros e priorize recursos que impulsionem o valor comercial."
+      },
+      {
+        "title": "Pesquisa de Mercado",
+        "desc": "Entenda seu público e concorrentes para tomar decisões informadas."
+      },
+      {
+        "title": "Suporte de Lançamento",
+        "desc": "Suporte completo de MVP ao lançamento completo do produto."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre PO Visão",
+    "subtitle": "Dedicado a transformar ideias de produto em realidade",
+    "content": "Com anos de experiência em gerenciamento de produtos, ajudamos startups e empresas a construir produtos que os usuários adoram. Nossa abordagem combina pensamento estratégico com execução prática."
+  },
+  "products": {
+    "title": "Nossos Serviços de Produto",
+    "services": [
+      {
+        "title": "Descoberta de Produto",
+        "desc": "Descubra necessidades de usuários e valide ideias de produto antes do desenvolvimento."
+      },
+      {
+        "title": "Planejamento de Roadmap",
+        "desc": "Crie roadmaps de produto acionáveis alinhados com objetivos de negócio."
+      },
+      {
+        "title": "Priorização de Recursos",
+        "desc": "Use métodos baseados em dados para priorizar recursos de forma eficaz."
+      },
+      {
+        "title": "Estratégia Go-to-Market",
+        "desc": "Desenvolva estratégias abrangentes para lançamentos de produto bem-sucedidos."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Vamos nos conectar e definir o próximo passo para sua visão de produto.",
+    "info": "Primeiro remoto, disponível em todo o mundo. Seja você precisar de estratégia de produto, suporte de lançamento ou alinhamento de roadmap, nossa equipe está pronta para colaborar.",
+    "details": {
+      "email": "Email",
+      "phone": "Telefone",
+      "location": "Localização"
+    },
+    "form": {
+      "eyebrow": "Envie uma nota rápida",
+      "title": "Conte-nos sobre seus objetivos de produto",
+      "subtitle": "Compartilhe seus objetivos e nós ajudaremos a moldar a próxima fase de sua jornada de produto.",
+      "name": "Nome",
+      "email": "Email",
+      "company": "Empresa",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem"
+    }
+  },
+  "footer": {
+    "description": "Potencializando visões de produto em todo o mundo com orientação estratégica e execução especializada.",
+    "links": ["Privacidade", "Termos", "Suporte"]
+  }
+}

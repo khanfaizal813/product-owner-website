@@ -11,5 +11,5 @@ import { TranslateModule } from '@ngx-translate/core';
   styleUrls: ['./app.scss']
 })
 export class App {
-  protected readonly title = signal('product-owner-website');
+  protected readonly title = signal('AL Noor Product Owner Vision');
 }

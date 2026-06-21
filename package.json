@@ -32,7 +32,8 @@
     "@ngx-translate/core": "^15.0.0",
     "@ngx-translate/http-loader": "^8.0.0",
     "rxjs": "~7.8.0",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "vercel": "^54.14.5"
   },
   "devDependencies": {
     "@angular/build": "^20.3.4",
